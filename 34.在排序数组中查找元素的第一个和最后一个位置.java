@@ -7,7 +7,7 @@
 // @lc code=start
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-
+        
     }
 }
 // @lc code=end
